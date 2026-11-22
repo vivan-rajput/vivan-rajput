@@ -1,16 +1,16 @@
-## Hi there 👋
+# Vivan Rajput
 
-<!--
-**vivan-rajput/vivan-rajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I practice data structures and algorithms in Python. My [DSA practice repository](https://github.com/vivan-rajput/dsa-practice) includes worked examples, complexity notes, and edge-case tests.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Programming | Data and databases | Productivity |
+| --- | --- | --- |
+| Python · Java | SQL · MySQL | Excel · PowerPoint |
+
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivan-rajput/vivan-rajput/main/assets/snake-dark.svg">
+  <img alt="An animated snake collecting squares from Vivan's GitHub contribution graph" src="https://raw.githubusercontent.com/vivan-rajput/vivan-rajput/main/assets/snake.svg">
+</picture>
