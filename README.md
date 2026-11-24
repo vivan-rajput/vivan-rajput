@@ -7,6 +7,11 @@
 
 I'm Vivan, and I'm learning to use Git and GitHub for my projects.
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./git-terminal.png">
+  <img src="./git-terminal.gif" width="100%" alt="A retro Git terminal stages hello.py with git add. The file changes from untracked to staged.">
+</picture>
+
 <details>
 <summary>Skills by category</summary>
 
