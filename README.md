@@ -5,7 +5,7 @@
   <img src="./vivan-blocks.gif" width="100%" alt="Vivan Rajput in digital block lettering above six 3D skill keys for Python, Java, SQL, MySQL, Excel, and PowerPoint.">
 </picture>
 
-I practice data structures and algorithms in Python. My [DSA practice repository](https://github.com/vivan-rajput/dsa-practice) includes worked examples, complexity notes, and edge-case tests.
+I'm Vivan, and I'm learning to use Git and GitHub for my projects.
 
 <details>
 <summary>Skills by category</summary>
