@@ -16,9 +16,9 @@ I practice data structures and algorithms in Python. My [DSA practice repository
 
 </details>
 
-## Contribution snake
+## Pixel Runner
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivan-rajput/vivan-rajput/main/assets/snake-dark.svg">
-  <img alt="An animated snake collecting squares from Vivan's GitHub contribution graph" src="https://raw.githubusercontent.com/vivan-rajput/vivan-rajput/main/assets/snake.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./pixel-runner.png">
+  <img src="./pixel-runner.gif" width="100%" alt="A pixel-art courier in a lime scarf jumps between violet islands and collects glowing crystals.">
 </picture>
